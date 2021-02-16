@@ -1,6 +1,16 @@
-### Hi there 👋
+## Braulio Aguilar - @brauliodev29
+<hr>
 
-I'm Backend Developer from Mexico City. Previously I worked at @Cultura-Colectiva-Tech.
+### What I do currently?
 
-- 💬 Ask me about: Go, Javascript, Vault
-- 🌍 [Website](https://brauliodev.com/)
+I'm Backend Developer from Mexico City. I love coding with Golang.
+
+### What technologies do I use?
+
+* Golang
+* Node
+* Docker
+* AWS
+* VueJs
+* Vault
+* Postgres
