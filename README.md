@@ -1,16 +1,13 @@
-## Braulio Aguilar - @brauliodev29
-<hr>
+## About :virgo:
 
-### What I do currently?
+Hello, I'm Braulio Aguilar, Web Developer with more than 5 years of experience in Backend, for the last 2 years I have been working with Golang which I'm passionate about. :metal:
 
-I'm Backend Developer from Mexico City. I love coding with Golang.
+Additionally, I have learned to work with approaches such as Microservices, REST API, gRPC, GraphQL, among others.
 
-### What technologies do I use?
+There are many topics that I have enjoyed learning: AWS, Hashicorp Vault, Docker, Terraform, SCRUM and now I want to start the paths of Rust, DevOps
 
-* Golang
-* Node
-* Docker
-* AWS
-* VueJs
-* Vault
-* Postgres
+I like being sociable, traveling and working as a homeoffice. I have to master English better, but Spanish is good for me.
+
+More info, [https://brauliodev.netlify.app](https://brauliodev.netlify.app/)
+
+<img src="./demo.gif">
