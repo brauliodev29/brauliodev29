@@ -8,6 +8,6 @@ There are many topics that I have enjoyed learning: AWS, Hashicorp Vault, Docker
 
 I like being sociable, traveling and working as a homeoffice. I have to master English better, but Spanish is good for me. :nail_care:
 
-More info, [https://brauliodev.netlify.app](https://brauliodev.netlify.app/)
+My site, [https://brauliodev.netlify.app](https://brauliodev.netlify.app/)
 
 <img src="./go.gif">
