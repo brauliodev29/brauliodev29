@@ -6,6 +6,3 @@ Additionally, I have learned to work with approaches such as Microservices, REST
 
 There are many topics that I have enjoyed learning: AWS, Hashicorp Vault, Docker, Terraform...
 
-[https://brauliodev.netlify.app](https://brauliodev.netlify.app/)
-
-<img src="./go.gif" width="100%">
